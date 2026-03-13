@@ -4,14 +4,14 @@ resource "aws_vpc" "myvpc" {
 
 resource "aws_subnet" "sub1" {
   vpc_id                  = aws_vpc.myvpc.id
-  cidr_block              = var.sub1_cidr
+  cidr_block              = "10.0.1.0/24"
   availability_zone_id    = "use1-az1"
   map_public_ip_on_launch = true
 }
 
 resource "aws_subnet" "sub2" {
   vpc_id                  = aws_vpc.myvpc.id
-  cidr_block              = var.sub2_cidr
+  cidr_block              = "10.0.2.0/24"
   availability_zone_id    = "use1-az2"
   map_public_ip_on_launch = true
 }

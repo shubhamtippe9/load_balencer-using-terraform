@@ -3,11 +3,11 @@ variable "cidr" {
 }
 
 variable "sub1_cidr" {
-  default = "121.12.1.10/18"
+  default = "121.12.1.10/24"
 }
 
 variable "sub2_cidr" {
-  default = "121.12.1.0/20"
+  default = "121.12.2.0/24"
 }
 
 variable "ami_id" {

@@ -82,6 +82,7 @@ resource "aws_instance" "webserver1" {
   instance_type          = var.instance_type
   subnet_id              = aws_subnet.sub1.id
   vpc_security_group_ids = [aws_security_group.webSg.id]
+  key_name = "north"
   tags = {
     Name = "server-1"
   }
@@ -94,6 +95,7 @@ resource "aws_instance" "webserver2" {
   instance_type          = var.instance_type
   subnet_id              = aws_subnet.sub2.id
   vpc_security_group_ids = [aws_security_group.webSg.id]
+  key_name = "north"
   tags = {
     Name = "sever-2"
   }

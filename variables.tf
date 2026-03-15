@@ -6,6 +6,6 @@ variable "ami_id" {
   default = "ami-02dfbd4ff395f2a1b"
 }
 
-variable "insatance_type" {
+variable "instance_type" {
   default = "t3.micro"
 }

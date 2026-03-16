@@ -148,13 +148,13 @@ http://your-load-balancer-dns.amazonaws.com
 
 ---
 
-# 📸 Screenshots
+# 📸 Output
 
 
 <h3>Website Output</h3>
-<img src="screenshots/server1" width="800">
+<img src="screenshots/server1.png" width="800">
 
-<img src="screenshots/server2" width="800">
+<img src="screenshots/server2.png" width="800">
 ---
 
 # 🧹 Destroy Infrastructure

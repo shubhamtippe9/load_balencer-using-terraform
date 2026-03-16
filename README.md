@@ -178,7 +178,7 @@ GitHub
 https://github.com/shubhamtippe9
 
 
-linkedin
+linkedin  
 https://www.linkedin.com/in/shubhamtippe9
 
 📜 License

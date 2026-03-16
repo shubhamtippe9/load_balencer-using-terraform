@@ -105,14 +105,6 @@ terraform init
 
 ---
 
-### 3️⃣ Validate Configuration
-
-```bash
-terraform validate
-```
-
----
-
 ### 4️⃣ Preview Infrastructure
 
 ```bash
@@ -178,13 +170,18 @@ terraform destroy --auto-approve
 
 ---
 
-# 👨‍💻 Author
+👨‍💻 Author
 
-**Shubham Tippe**
+Shubham Tippe Cloud & DevOps Learner
 
 GitHub  
 https://github.com/shubhamtippe9
+linkedin
+in/ shubhamtippe9
 
+📜 License
+
+This project is for educational and learning purposes.
 ---
 
-⭐ If you like this project, give it a **star on GitHub**.
+

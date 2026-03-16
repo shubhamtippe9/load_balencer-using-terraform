@@ -177,7 +177,7 @@ Shubham Tippe Cloud & DevOps Learner
 GitHub  
 https://github.com/shubhamtippe9
 linkedin
-in/ shubhamtippe9
+https://www.linkedin.com/in/shubhamtippe9
 
 📜 License
 

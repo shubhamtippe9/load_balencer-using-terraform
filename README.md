@@ -150,11 +150,12 @@ http://your-load-balancer-dns.amazonaws.com
 
 # 📸 Output
 
-
+```
 <h3>Website Output</h3>
 <img src="screenshots/server1.png" width="800">
 
 <img src="screenshots/server2.png" width="800">
+```
 ---
 
 # 🧹 Destroy Infrastructure
